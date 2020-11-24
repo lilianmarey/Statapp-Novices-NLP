@@ -6,7 +6,6 @@ Lilian MAREY
 Anna THANH-SON-NGUYEN
 Dalil YOUCEFI
 
-
-Encadrants:
+Encadrants :
 Salomé Do
 Etienne Ollion
