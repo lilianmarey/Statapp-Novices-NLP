@@ -1,6 +1,6 @@
-Projet de Statistiques Appliquées (2A ENSAE Paris)
+Projet de Statistiques Appliquées (2A ENSAE Paris). 
 
-Groupe :
+Groupe :  
 Wakil LASSEL  
 Lilian MAREY  
 Anna THANH-SON-NGUYEN  
