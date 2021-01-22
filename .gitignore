@@ -2,6 +2,6 @@ data/bdd_complete2.csv
 data/data.csv
 data/data_cleaned.csv
 .DS_Store
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .gitignore
 
