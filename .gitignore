@@ -3,3 +3,5 @@ data/data.csv
 data/data_cleaned.csv
 .DS_Store
 .ipynb_checkpoints
+.gitignore
+
