@@ -2,6 +2,7 @@ data/bdd_complete2.csv
 data/data.csv
 data/data_cleaned.csv
 results/df_moyennes0.csv
+data/data_cleaned_test.csv
 .DS_Store
 .ipynb_checkpoints/
 .gitignore
