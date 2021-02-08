@@ -2,9 +2,14 @@ data/bdd_complete2.csv
 data/data.csv
 data/data_cleaned.csv
 results/df_moyennes0.csv
-results/embeddings.csv
+results/embeddings_novice.csv
+results/embeddings_exp.csv
 data/data_cleaned_test.csv
 data/data_cleaned_NLP.csv
+
+results/word2vec_novice.model
+results/word2vec_exp.model
+
 .DS_Store
 .ipynb_checkpoints/
 .gitignore
