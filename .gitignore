@@ -6,6 +6,7 @@ results/embeddings_novice.csv
 results/embeddings_exp.csv
 data/data_cleaned_test.csv
 data/data_cleaned_NLP.csv
+results/word2vec_novice_300.model
 
 results/word2vec_novice.model
 results/word2vec_exp.model
