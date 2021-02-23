@@ -12,6 +12,10 @@ results/word2vec_exp_300.model
 results/word2vec_exp_300.model.trainables.syn1neg.npy
 results/word2vec_exp_300.model.wv.vectors.npy
 
+results/word2vec_all_300.model
+results/word2vec_all_300.model.trainables.syn1neg.npy
+results/word2vec_all_300.model.wv.vectors.npy
+
 results/word2vec_novice.model
 results/word2vec_exp.model
 
