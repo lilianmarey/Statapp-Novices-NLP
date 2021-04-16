@@ -21,5 +21,4 @@ results/word2vec_exp.model
 
 .DS_Store
 .ipynb_checkpoints/
-.gitignore
 
