@@ -1,6 +1,8 @@
 data/bdd_complete2.csv
 data/data.csv
 data/data_cleaned.csv
+data/one_hot_encoded_data.csv
+
 results/df_moyennes0.csv
 results/embeddings_novice.csv
 results/embeddings_exp.csv
